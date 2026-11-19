@@ -1,4 +1,5 @@
 numpy
 pandas
 pydantic
-requests
+requests 
+python-dotenv
